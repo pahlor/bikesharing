@@ -5,7 +5,7 @@ For this analysis, we reviewed New York City Citi Bike data to inform the creati
 * **Number of bike trips for all riders and genders for each hour of each day of the week**
 * **Number of bike trips for each type of user and gender for each day of the week**
 
-**Results**
+# **Results**
 [Top Starting Stations](https://public.tableau.com/app/profile/pa.lor/viz/TopStartingStations_16486124235240/TopStartingStations)
 ###### *Top stations where bikes are checked out by users.*
 ![](Resources/Checkout%20Times%20for%20Users.png)
@@ -34,9 +34,9 @@ For this analysis, we reviewed New York City Citi Bike data to inform the creati
 ###### *Heat map of trips by weekday broken down by gender.*
 ![](Resources/Trips%20by%20Gender%20by%20Weekday.png)
 
-**[Link to NYC Citi Bike User Story](https://public.tableau.com/app/profile/pa.lor/viz/NYCCitiBikeUserStory/NYCCitiBikeUserStory?publish=yes)**
+### **[Link to NYC Citi Bike User Story](https://public.tableau.com/app/profile/pa.lor/viz/NYCCitiBikeUserStory/NYCCitiBikeUserStory?publish=yes)**
 
-**Summary**
+# **Summary**
 
 The results we can draw from our analysis and visualizations are:
 * **Most trips last less than 1 hour**
